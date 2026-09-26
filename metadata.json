@@ -1,0 +1,6 @@
+{
+  "name": "Waffle Maker Anantapur",
+  "description": "Handcrafted golden Belgian waffles, sizzling brownie skillets, fluffy morning pancakes, and crave-worthy loaded chicken fries in Anantapur near Zudio, Papampeta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
